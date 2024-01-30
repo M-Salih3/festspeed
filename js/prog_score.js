@@ -1,3 +1,9 @@
+let width_in = document.getElementById('width-ind');
+width_in.innerHTML = window.innerWidth;
+
+let width_out = document.getElementById('width-out');
+width_out.innerHTML = window.outerWidth;
+
 let SHEET_ID = '1DIhqV07i3VzCBswPr_byOXX53A4oSsKUqZQJHOTNiek';
 let SHEET_TITLE = 'score';
 let SHEET_RANGE = 'A1:D2';
