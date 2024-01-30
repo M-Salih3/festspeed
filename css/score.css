@@ -302,7 +302,7 @@ table             {
 
 
 /* tv section */
-@media (min-width : 1400px) {
+@media (min-width : 1700px) {
   .our {
     width: 20dvw;
     height: 80%;
@@ -350,18 +350,3 @@ table             {
     margin-right: auto;
   }
 }
-
-@media (min-width: 2100px) {
-  .our {
-    height: 100%;
-  }
-
-  .card-mng {
-    padding-top: 5dvh;
-  }
-
-  .container {
-    max-width: 100dvw;
-  }
-}
-
